@@ -1,7 +1,0 @@
-organization=sanyogvarshney12-github
-projectKey=AirportManagementSystem
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.20494
-dashboardUrl=https://sonarcloud.io/dashboard?id=AirportManagementSystem
-ceTaskId=AXm3jG8IKnn3DtFpGqFM
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXm3jG8IKnn3DtFpGqFM
