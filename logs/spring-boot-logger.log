@@ -32,3 +32,16 @@
 2021-05-29 14:17:47,203 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.controller.AirportManagementControllerTest:: METHODNAME : destroy() :: Executing after testcase
 2021-05-29 14:17:47,205 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.controller.AirportManagementControllerTest:: METHODNAME : init() :: Executing before testcase
 2021-05-29 14:17:47,206 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.controller.AirportManagementControllerTest:: METHODNAME : destroy() :: Executing after testcase
+2021-05-29 17:55:41,063 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementService:: METHODNAME : listAllAirports() :: method Started
+2021-05-29 17:56:19,015 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementService:: METHODNAME : listAllAirports() :: method Started
+2021-05-29 18:00:50,902 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementService:: METHODNAME : listAllAirports() :: method Started
+2021-05-29 18:39:15,740 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementServiceImpl:: METHODNAME : listAllAirports() :: **** Method Started ****
+2021-05-29 18:50:54,926 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementServiceImpl:: METHODNAME : listAllAirports() :: **** Method Started ****
+2021-05-29 18:51:45,535 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementServiceImpl:: METHODNAME : listAllAirports() :: **** Method Started ****
+2021-05-29 18:53:30,651 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementServiceImpl:: METHODNAME : listAllAirports() :: **** Method Started ****
+2021-05-29 19:22:57,764 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementServiceImpl:: METHODNAME : listAllAirports() :: **** Method Started ****
+2021-05-29 19:24:46,297 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementServiceImpl:: METHODNAME : listAllAirports() :: **** Method Started ****
+2021-05-29 19:26:32,924 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementServiceImpl:: METHODNAME : listAllAirports() :: **** Method Started ****
+2021-05-29 20:03:15,558 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementServiceImpl:: METHODNAME : listAllAirports() :: **** Method Started ****
+2021-05-29 20:21:18,080 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementServiceImpl:: METHODNAME : listAllAirports() :: **** Method Started ****
+2021-05-29 20:22:15,784 DEBUG com.airport.logger.ApplicationLogger [main] CLASSNAME : com.airport.service.AirportManagementServiceImpl:: METHODNAME : listAllAirports() :: **** Method Started ****

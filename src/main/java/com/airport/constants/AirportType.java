@@ -7,11 +7,11 @@ package com.airport.constants;
  * @apiNote enum constants
  */
 public enum AirportType {
-    small_airport,
-    large_airport,
-    medium_airport,
-    baloon_airport,
-    closed,
-    heliport,
-    seaplane_base
+    SMALLAIRPORT,
+    LARGEAIRPORT,
+    MEDIUMAIRPORT,
+    BALOONAIRPORT,
+    CLOSED,
+    HELIPORT,
+    SEAPLANEBASE
 }

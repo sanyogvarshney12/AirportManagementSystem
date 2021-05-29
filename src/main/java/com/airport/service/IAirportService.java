@@ -8,7 +8,7 @@ package com.airport.service;
  */
 public interface IAirportService {
 
-    public void listAllAirports();
+    public int listAllAirports() throws Exception;
     public void findAirportsByName();
     public void findAirportsByCountry();
     public void findAirportsBySize();
