@@ -12,7 +12,7 @@
         <sonar.projectKey>AirportmanagementSystem</sonar.projectKey>
         <sonar.organization>sanyogvarshney12</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.coverage.jacoco.xmlReportPaths>../testcases/target/site/jacoco-aggregate/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
+        <sonar.coverage.jacoco.xmlReportPaths>../AirportManagementSystem/target/site/jacoco-aggregate/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
     </properties>
     <parent>
         <groupId>org.springframework.boot</groupId>
