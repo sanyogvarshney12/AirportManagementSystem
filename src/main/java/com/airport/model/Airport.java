@@ -15,9 +15,6 @@ public class Airport {
     private String isoCountry;
     private String isoRegion;
 
-    public Airport(){
-
-    }
 
     public int getId() {
         return id;
