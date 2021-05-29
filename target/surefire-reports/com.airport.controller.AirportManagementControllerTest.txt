@@ -1,16 +1,16 @@
 -------------------------------------------------------------------------------
 Test set: com.airport.controller.AirportManagementControllerTest
 -------------------------------------------------------------------------------
-Tests run: 17, Failures: 17, Errors: 0, Skipped: 0, Time elapsed: 0.208 s <<< FAILURE! - in com.airport.controller.AirportManagementControllerTest
-testListCountries(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.026 s  <<< FAILURE!
+Tests run: 17, Failures: 17, Errors: 0, Skipped: 0, Time elapsed: 0.214 s <<< FAILURE! - in com.airport.controller.AirportManagementControllerTest
+testListCountries(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.033 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.testListCountries(AirportManagementControllerTest.java:77)
 
-testGetRandomAirport(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.001 s  <<< FAILURE!
+testGetRandomAirport(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.006 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.testGetRandomAirport(AirportManagementControllerTest.java:73)
 
-testLogin(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.001 s  <<< FAILURE!
+testLogin(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.004 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.testLogin(AirportManagementControllerTest.java:87)
 
@@ -18,7 +18,7 @@ testHelp(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.testHelp(AirportManagementControllerTest.java:96)
 
-testListAllRegions(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.002 s  <<< FAILURE!
+testListAllRegions(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.013 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.testListAllRegions(AirportManagementControllerTest.java:63)
 
@@ -26,7 +26,7 @@ testListAllNavaids(com.airport.controller.AirportManagementControllerTest)  Time
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.testListAllNavaids(AirportManagementControllerTest.java:68)
 
-testFindAirportsByName(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.001 s  <<< FAILURE!
+testFindAirportsByName(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Impemented
 	at com.airport.controller.AirportManagementControllerTest.testFindAirportsByName(AirportManagementControllerTest.java:33)
 
@@ -34,39 +34,39 @@ testFindAirportsBySize(com.airport.controller.AirportManagementControllerTest)  
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.testFindAirportsBySize(AirportManagementControllerTest.java:43)
 
-testFindAirportsByCountry(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.001 s  <<< FAILURE!
+testFindAirportsByCountry(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Impemented
 	at com.airport.controller.AirportManagementControllerTest.testFindAirportsByCountry(AirportManagementControllerTest.java:38)
 
-testFindHelipads(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.003 s  <<< FAILURE!
+testFindHelipads(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.001 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.testFindHelipads(AirportManagementControllerTest.java:53)
 
-listAirportsSorted(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.002 s  <<< FAILURE!
+listAirportsSorted(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.listAirportsSorted(AirportManagementControllerTest.java:100)
 
-testFindAirportsByRunways(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.003 s  <<< FAILURE!
+testFindAirportsByRunways(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.testFindAirportsByRunways(AirportManagementControllerTest.java:48)
 
-testListContinents(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.002 s  <<< FAILURE!
+testListContinents(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.testListContinents(AirportManagementControllerTest.java:82)
 
-listAirportsPaginated(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.002 s  <<< FAILURE!
+listAirportsPaginated(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.listAirportsPaginated(AirportManagementControllerTest.java:104)
 
-testFindAirportsByContinent(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0 s  <<< FAILURE!
+testFindAirportsByContinent(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.001 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.testFindAirportsByContinent(AirportManagementControllerTest.java:58)
 
-testSignup(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.003 s  <<< FAILURE!
+testSignup(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0 s  <<< FAILURE!
 java.lang.AssertionError: Not Yet Implemented
 	at com.airport.controller.AirportManagementControllerTest.testSignup(AirportManagementControllerTest.java:92)
 
-testListAllAirports(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.003 s  <<< FAILURE!
+testListAllAirports(com.airport.controller.AirportManagementControllerTest)  Time elapsed: 0.001 s  <<< FAILURE!
 java.lang.AssertionError: Not implemented
 	at com.airport.controller.AirportManagementControllerTest.testListAllAirports(AirportManagementControllerTest.java:28)
 
