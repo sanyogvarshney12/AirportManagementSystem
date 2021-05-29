@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+AirportManagementSystem,com.airport.controller,AirportManagementController,15,0,0,0,13,0,13,0,13,0
+AirportManagementSystem,com.airport.service,AirportManagementService,15,0,0,0,13,0,13,0,13,0
+AirportManagementSystem,com.airport.model,Airport,45,0,0,0,20,0,13,0,13,0
+AirportManagementSystem,com.airport.logger,ApplicationLogger,3,0,0,0,1,0,1,0,1,0
+AirportManagementSystem,com.airport.constants,AirportType,74,0,0,0,8,0,1,0,1,0

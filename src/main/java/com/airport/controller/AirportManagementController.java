@@ -4,6 +4,7 @@ package com.airport.controller;
  * @author Sanyog Varshney
  * @since 1.0
  * @version 1.0
+ * @apiNote REST CONTROLLER
  */
 public class AirportManagementController implements IAirportController{
     @Override

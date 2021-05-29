@@ -4,6 +4,7 @@ package com.airport.model;
  * @author Sanyog Varshney
  * @since 1.0
  * @version 1.0
+ * @apiNote MODEL
  */
 public class Airport {
 
